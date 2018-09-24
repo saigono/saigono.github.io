@@ -3,7 +3,7 @@ layout: post
 title: "Это же Бубль Гум!"
 author: "Danil Ineev"
 categories: review
-tags: [review, stambul, turkey, trip]
+tags: [review, stambul, turkey, trip, film]
 image: istanbul-1.jpg
 ---
 
