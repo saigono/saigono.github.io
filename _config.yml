@@ -15,7 +15,7 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Not Really"
-description:	       "Modern visual arts"
+description:	       "Contemporary visual arts"
 author:              "Danil Ineev"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
