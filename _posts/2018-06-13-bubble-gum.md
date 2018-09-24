@@ -35,7 +35,7 @@ tags: [review, stambul, turkey, trip]
 
 {% include image.html url="https://i.imgur.com/oFvS4Sj.png" caption="А здесь мне нравится поза, естественная, приятно смотреть" %}
 
-Ну а самая классная фотка со всей катушки может показаться совершенно неказистой и никакой. Но это такой Accidental Rennaissance, не могу оторваться. Только при сжатии немножко эффект пропадает. Нужны равки!
+Ну а самая классная фотка со всей катушки может показаться совершенно неказистой и никакой. Но это такой [Accidental Rennaissance](https://www.reddit.com/r/AccidentalRenaissance/), не могу оторваться. Только при сжатии немножко эффект пропадает. Нужны равки!
 
 {% include image.html url="https://i.imgur.com/CdUsLVi.png" caption="" %}
 
