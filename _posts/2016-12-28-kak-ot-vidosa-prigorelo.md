@@ -25,22 +25,22 @@ tags: [youtube,critique]
 У КАРТЬЕ-БРЕССОНА НЕТ БОКЕ НА ФОТОГРАФИЯХ
 
 {% include image.html       
-           url="https://telegra.ph/file/7f8e7a549ed933a44c16f.png"
+           url="https://i.imgur.com/mUozVfJ.png"
            title="Мальчик радуется огромному ГРИП на фото"
            caption="Мальчик радуется огромному ГРИП на фото" %}
 
 {% include image.html
-           url="https://telegra.ph/file/e60daebc859957c2a54a2.png"
+           url="https://i.imgur.com/xCUk7nW.png"
            title="Рабочий недоволен что его снимают на фикс"
            caption="Рабочий недоволен что его снимают на фикс" %}
 
 {% include image.html
-           url="https://telegra.ph/file/aa263cd30220ba16f02e9.png"
+           url="https://i.imgur.com/KV1HiQA.png"
            title="Надпись на табличке: «Современные зумы догнали фиксы»"
            caption="Надпись на табличке: «Современные зумы догнали фиксы»" %}
 
 {% include image.html
-           url="https://telegra.ph/file/6fc66922e7aa5a517d798.png"
+           url="https://i.imgur.com/aZYxOX6.png"
            title="Альбер Камю разочарован в фотографии середины XX века"
            caption="Альбер Камю разочарован в фотографии середины XX века" %}
 
