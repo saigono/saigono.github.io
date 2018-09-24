@@ -1,0 +1,13 @@
+<!-- _includes/image.html -->
+<div class="image-wrapper" >
+    {% if include.original %}
+    <a href="{{ include.original }}" title="{{ include.title }}" target="_blank">
+    {% endif %}
+        <img src="{{ include.url }}" alt="{{ include.title }}"/>
+    {% if include.original %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+        <p class="image-caption">{{ include.caption }}</p>
+    {% endif %}
+</div>
