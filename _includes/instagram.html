@@ -1,0 +1,8 @@
+<div class="featured-image image-wrapper" >
+    <a href="https://instagram.com/p/{{ include.id }}" title="Photo taken by @{{ page.instagram_author }}" target="_blank">
+        <img src="https://instagram.com/p/{{ include.id }}/media/?size=l" alt="Photo taken by @{{ page.instagram_author }}"/>
+    </a>
+    {% if include.caption %}
+        <p class="image-caption">{{ include.caption }}</p>
+    {% endif %}
+</div>
