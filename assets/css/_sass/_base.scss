@@ -2,9 +2,22 @@
   Reset some basic elements
 */
 
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
   margin: 0;
   padding: 0;
 }
@@ -14,8 +27,13 @@ dl, dd, ol, ul, figure {
 */
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 0.5rem;
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
@@ -32,7 +50,9 @@ h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
 }
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   margin-top: 1rem;
   font-size: 1rem;
 }
@@ -42,10 +62,10 @@ body {
   font-family: $base-font-family;
 }
 body img {
-    align: middle;
-    margin: 5px auto auto auto;
-    display: block;
-    max-width: 600px;
+  align: middle;
+  margin: 5px auto auto auto;
+  display: block;
+  // max-width: 600px;
 }
 
 p {
@@ -59,7 +79,9 @@ p {
 }
 
 /* Lists */
-ul, ol, dl {
+ul,
+ol,
+dl {
   margin-top: 1rem;
   margin-bottom: 1rem;
   margin-left: 1.5rem;
@@ -80,7 +102,7 @@ dt {
   font-weight: bold;
 }
 dd {
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
 }
 
 /*
@@ -107,16 +129,19 @@ blockquote {
 /**
  * Tables
  */
- table {
-     border-collapse: collapse;
-     margin-bottom: 30px;
-     width: 100%;
- }
+table {
+  border-collapse: collapse;
+  margin-bottom: 30px;
+  width: 100%;
+}
 
- table, th, td {
-     border: 1px solid black;
- }
- th, td {
-     padding: 15px;
-     text-align: left;
- }
+table,
+th,
+td {
+  border: 1px solid black;
+}
+th,
+td {
+  padding: 15px;
+  text-align: left;
+}
