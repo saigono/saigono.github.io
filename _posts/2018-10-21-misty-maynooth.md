@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "Туман – друг фотографа"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: exhibit
 tags: [exhibit, maynooth, ireland]
-image: maynooth-mist-1.jpg
+excerpt: Промозглое утро может стать приятным
+header:
+  image: assets/images/maynooth-mist-1.jpg
 ---
 
 Любая происходящая движуха – всегда на пользу фотографу. 

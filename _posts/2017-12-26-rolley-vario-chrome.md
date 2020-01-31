@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "Не сложилось с Rollei Vario Сhrome"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: review
 tags: [review, dublin, ireland, film]
-image: tanya-1.jpg
+excerpt: А меня предупреждали…
+header:
+  overlay_image: assets/images/tanya-1.jpg
 ---
 
 Свою поездку по Ирландии (наверное напишу про неё пост побольше) я снимал на две камеры, плёночную и цифровую. Фотографии с чёрно-белой катушки плёнки я уже показывал, по крайней мере некоторые кадры постил везде со страшной силой. Ещё у меня была вторая катушка, цветная, но с ней что-то пошло не так.

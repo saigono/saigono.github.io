@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "Серая Русь"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: exhibit
 tags: [exhibit, russia, volgograd, trip, film]
-image: gray-russia-1.jpg
+excerpt: Шарм Волгоградской глубинки в стиле "Эстетики Ебеней"
+header:
+  overlay_image: assets/images/gray-russia-1.jpg
 ---
 
 Неважно, насколько зелёный город, сколь красивы его дома или какие-то храмы с памятниками, иногда бывают такие дни, когда просто опускается серость. Но если это наложить на пейзажи типичной российской глубинки, может получиться совсем безрадостная картина.

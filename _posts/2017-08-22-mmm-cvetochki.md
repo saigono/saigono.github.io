@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "ммм, цветочки"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: exhibit
 tags: [exhibit, dublin, ireland]
-image: flower-1.jpg
+excerpt: magnifique
+header:
+  overlay_image: assets/images/flower-1.jpg
 ---
 
 После переезда в город со значительно более мягким климатом, чем был в Москве, я внезапно обнаружил, что цветение может быть достаточно длительным процессом. Наверное, при должной степени старания и везения, даже в январе можно найти какое-нибудь внезапно распустившееся дерево.

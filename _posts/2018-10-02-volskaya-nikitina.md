@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "[Не]случайный инстаграм: @volskaya_nikitina"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: instagram-review
 tags: [instagram-review]
-image: volskaya-nikitina.jpg
+excerpt: Проба пера в критике инстаграм-аккаунта
+header:
+  overlay_image: assets/images/volskaya-nikitina.jpg
 instagram_author: volskaya_nikitina
 ---
 

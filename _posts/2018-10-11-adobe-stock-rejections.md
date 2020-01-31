@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "Как Adobe Stock умеет отказывать"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: critique
 tags: [critique, adobe, microstock]
-image: microstock-1.jpg
+excerpt: Отчёт о том, как Адоб не даёт мне заработать
+header:
+  overlay_image: assets/images/microstock-1.jpg
 ---
 
 Прежде чем начать, небольшое пояснения для тех, кто не в курсе. 

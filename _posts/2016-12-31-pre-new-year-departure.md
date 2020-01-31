@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "Предновогодняя вылазка"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: exhibit
 tags: [exhibit, dublin, ireland]
-image: pre-new-year.jpg
+excerpt: Первые кадры с новой Сигмы
+header:
+  overlay_image: assets/images/pre-new-year.jpg
 ---
 
 Сделал себе подарок на Новый Год, купил новое стекло. Вот первые блины
