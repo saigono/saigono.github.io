@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "Как Adobe Stock умеет отказывать"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: critique
 tags: [critique, adobe, microstock]
-image: microstock-1.jpg
+excerpt: Отчёт о том, как Адоб не даёт мне заработать
+header:
+  overlay_image: assets/images/microstock-1.jpg
 ---
 
 Прежде чем начать, небольшое пояснения для тех, кто не в курсе. 
@@ -23,10 +24,10 @@ Adobe Stock, а также его конкуренты Shutterstock, Getty Image
 (например, нельзя логотипы Кока-Колы фотографировать или рисовать). Иногда же докапываются до сущей ерунды. 
 Начнём с простых случаев.
 
-{% include image.html url="https://i.imgur.com/OkxXxJq.jpg" caption="Здесь цензору показались артефакты обработки. Спорить не буду (хоть наверняка он и принял дефекты стаканы за перешарп)" %}
-{% include image.html url="https://i.imgur.com/sYFT0PP.jpg" caption="Отказ из-за того, что фотография слишком тёмная. Соглашусь" %}
-{% include image.html url="https://i.imgur.com/mdLkeIP.jpg" caption="Здесь почему-то тоже проблема с экспозицией. Вот конкретно этого мне не видно" %}
-{% include image.html url="https://i.imgur.com/MI9uz4e.jpg" caption="Тут же якобы нет фокуса. Ну как знают, хотя может я привязан к этой фотке из-за того куба" %}
+{% include figure image_path="https://i.imgur.com/OkxXxJq.jpg" caption="Здесь цензору показались артефакты обработки. Спорить не буду (хоть наверняка он и принял дефекты стаканы за перешарп)" %}
+{% include figure image_path="https://i.imgur.com/sYFT0PP.jpg" caption="Отказ из-за того, что фотография слишком тёмная. Соглашусь" %}
+{% include figure image_path="https://i.imgur.com/mdLkeIP.jpg" caption="Здесь почему-то тоже проблема с экспозицией. Вот конкретно этого мне не видно" %}
+{% include figure image_path="https://i.imgur.com/MI9uz4e.jpg" caption="Тут же якобы нет фокуса. Ну как знают, хотя может я привязан к этой фотке из-за того куба" %}
 
 В этих случаях всё более-менее понятно. 
 Когда технические огрехи заметны, то и как-то не печёт. 
@@ -37,7 +38,7 @@ Adobe Stock, а также его конкуренты Shutterstock, Getty Image
 И ладно бы ссылку вставили, но нет, догадывайся сам какая из фоток похожая. 
 Обидно, фотка-то классная.
 
-{% include image.html url="https://i.imgur.com/2CNNUf0.jpg" caption="" %}
+{% include figure image_path="https://i.imgur.com/2CNNUf0.jpg" caption="" %}
 
 Самая же противная причина это "Intellectual property refusal". 
 Под неё попадает вообще почти всё, от какой-нибудь невинной брошки, 
@@ -48,14 +49,14 @@ Adobe Stock, а также его конкуренты Shutterstock, Getty Image
 Разумеется, никто никогда не скажет, где же конкретно ты нарушил. 
 А тебе остаётся только сидеть и гадать.
 
-{% include image.html url="https://i.imgur.com/i12nhJh.jpg" caption="" %}
-{% include image.html url="https://i.imgur.com/c2wIFNu.jpg" caption="Здесь я честно ожидал отказ по фокусу" %}
-{% include image.html url="https://i.imgur.com/cAHO0M8.jpg" caption="" %}
-{% include image.html url="https://i.imgur.com/17TQyLn.jpg" caption="Похожую фотографию без лодки пропустили без проблем" %}
-{% include image.html url="https://i.imgur.com/Tae9qdB.jpg" caption="Слабо найти 5 или больше нарушений копирайта здесь?" %}
-{% include image.html url="https://i.imgur.com/OArDU8n.jpg" caption="А говорили, что в метро можно фотографировать" %}
-{% include image.html url="https://i.imgur.com/m6pBOzi.jpg" caption="Уууу, Тедди, копирайченный ты мороженщик" %}
-{% include image.html url="https://i.imgur.com/XQXzGtW.jpg" caption="Лично я ни одной рекламы тут прочитать не могу" %}
+{% include figure image_path="https://i.imgur.com/i12nhJh.jpg" caption="" %}
+{% include figure image_path="https://i.imgur.com/c2wIFNu.jpg" caption="Здесь я честно ожидал отказ по фокусу" %}
+{% include figure image_path="https://i.imgur.com/cAHO0M8.jpg" caption="" %}
+{% include figure image_path="https://i.imgur.com/17TQyLn.jpg" caption="Похожую фотографию без лодки пропустили без проблем" %}
+{% include figure image_path="https://i.imgur.com/Tae9qdB.jpg" caption="Слабо найти 5 или больше нарушений копирайта здесь?" %}
+{% include figure image_path="https://i.imgur.com/OArDU8n.jpg" caption="А говорили, что в метро можно фотографировать" %}
+{% include figure image_path="https://i.imgur.com/m6pBOzi.jpg" caption="Уууу, Тедди, копирайченный ты мороженщик" %}
+{% include figure image_path="https://i.imgur.com/XQXzGtW.jpg" caption="Лично я ни одной рекламы тут прочитать не могу" %}
 
 Ну ничего, догружу до конца фотки на адобовский сток, потом переключусь
  на другие сайты. 

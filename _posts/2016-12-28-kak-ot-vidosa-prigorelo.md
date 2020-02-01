@@ -1,17 +1,16 @@
 ---
-layout: post
 title: "Как у меня от одного видоса пригорело"
-author: "Danil Ineev"
+author: "Данил Инеев"
 categories: critique
 tags: [youtube,critique]
-image: camus.png
+excerpt: Впечатления от рассуждений на тему "Зум против фикса"
+header:
+  overlay_image: assets/images/camus.png
 ---
 
 Посмотрел я тут один занимательный видос на Ютюбе, зовётся претенциозно «Зум против фикса. Видео урок по фотографии 49». Вот, собственно, и он: 
 
-{% include youtube-player.html 
-           id="aPqNNPRnrRQ" 
-           caption="Предмет бомбёжки" %}
+{% include video id="aPqNNPRnrRQ" provider="youtube" caption="Предмет бомбёжки" %}
 
 Если *вкрациях*, то в нём говорится о том, что в современном мире зум-объективы по качеству догнали фиксы, и в принципе нет смысла эти самые фиксы брать. Аргументация такая:
 - Берём [Minolta 35-70mm F/4](http://kurtmunger.com/minolta_af_35_70mm_f_4_reviewid180.html) за 4к рублей (типа старый объектив, но хороший)
@@ -25,23 +24,23 @@ image: camus.png
 
 У КАРТЬЕ-БРЕССОНА НЕТ БОКЕ НА ФОТОГРАФИЯХ
 
-{% include image.html       
-           url="https://i.imgur.com/mUozVfJ.png"
+{% include figure       
+           image_path="https://i.imgur.com/mUozVfJ.png"
            title="Мальчик радуется огромному ГРИП на фото"
            caption="Мальчик радуется огромному ГРИП на фото" %}
 
-{% include image.html
-           url="https://i.imgur.com/xCUk7nW.png"
+{% include figure
+           image_path="https://i.imgur.com/xCUk7nW.png"
            title="Рабочий недоволен что его снимают на фикс"
            caption="Рабочий недоволен что его снимают на фикс" %}
 
-{% include image.html
-           url="https://i.imgur.com/KV1HiQA.png"
+{% include figure
+           image_path="https://i.imgur.com/KV1HiQA.png"
            title="Надпись на табличке: «Современные зумы догнали фиксы»"
            caption="Надпись на табличке: «Современные зумы догнали фиксы»" %}
 
-{% include image.html
-           url="https://i.imgur.com/aZYxOX6.png"
+{% include figure
+           image_path="https://i.imgur.com/aZYxOX6.png"
            title="Альбер Камю разочарован в фотографии середины XX века"
            caption="Альбер Камю разочарован в фотографии середины XX века" %}
 

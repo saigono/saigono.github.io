@@ -1,23 +1,110 @@
-# Site Build Settings
-
-# jekyll-paginate configuration
-paginate:            5
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Not Really
+email: sai@notreally.media
+url: https://notreally.media
+description: >- # this means to ignore newlines until "baseurl:"
+  Фотография, видеография, графоманские тексты от Данила Инеева и его друзей.
+twitter_username: saigono
+github_username: saigono
+minimal_mistakes_skin: default
+search: true
 
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+markdown: kramdown
+# theme: "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale: ru
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Dublin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+words_per_minute: 170
 
-sass:
-  sass_dir: assets/css
-  style: :nested
+include:
+  - _pages
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Not Really"
-description:	       "Contemporary visual arts"
-author:              "Danil Ineev"
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name: "Данил Инеев"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Фотограф, видеограф и блогер в свободное от работы время. Любящий муж, сын и брат — всегда."
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/saigono"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/notreallysai"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/notreally"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/saigono"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/notreallysai"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/notreally"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      classes: wide
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-106157450-1"
