@@ -52,17 +52,11 @@ plugins:
 author:
   name: "Данил Инеев"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Фотограф, видеограф и немного блогер в свободное от работы время. Любящий муж, сын и брат — всегда."
+  bio: "Фотограф, видеограф и блогер в свободное от работы время. Любящий муж, сын и брат — всегда."
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/saigono"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/saigono"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/notreallysai"
@@ -94,6 +88,7 @@ defaults:
       comments: true
       share: true
       related: true
+      classes: wide
   # _pages
   - scope:
       path: "_pages"

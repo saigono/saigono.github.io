@@ -1,0 +1,14 @@
+Данил Инеев:
+  name: "Данил Инеев"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Фотограф, видеограф и блогер в свободное от работы время. Любящий муж, сын и брат — всегда."
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/saigono"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/notreallysai"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/notreally"
