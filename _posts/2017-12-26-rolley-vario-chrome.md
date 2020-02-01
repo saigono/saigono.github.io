@@ -12,24 +12,24 @@ header:
 
 Коротко о плёнке: Rollei Vario Chrome 200-400, слайдовая (то есть после проявки у кадров нормальные цвета, а не обратные как на негативах), цветная, новая и довольно редкая. Проблемы начались с того, что в Ирландии такую плёнку проявляют полторы калеки, поэтому пришлось сначала долго искать лабораторию, а потом ждать проявки. Из-за этого (и моей лености) казалось, что я получу свои снимки не раньше конца января. Но 23 декабря произошло рождественское чудо – на электронную почту пришла ссылка на сканы. Радости моей не было предела ровно до тех пор, пока не увидел свои фотографии:
 
-{% include image.html url="https://i.imgur.com/PwMccRX.jpg" caption="Вот так в среднем выглядели все кадры" %}
+{% include figure image_path="https://i.imgur.com/PwMccRX.jpg" caption="Вот так в среднем выглядели все кадры" %}
 
 Одно расстройство вместо чуда. И дело даже не в том, что проявка и сканы вышли в 30+ евро, а то, что потенциально там были приятные глазу кадры. Не знаю, я ли накосячил, или в лабе, но уже ничего не поменяешь. Зато сами слайды выглядят очень красиво:
 
-{% include image.html url="https://i.imgur.com/QhYTRCF.jpg" caption="Кадры в рамочке, какая лепота" %}
+{% include figure image_path="https://i.imgur.com/QhYTRCF.jpg" caption="Кадры в рамочке, какая лепота" %}
 
 Название "слайдовая плёнка" как бы говорит нам, что проявленные снимки можно использовать в качестве слайдов. Но у меня нет ни прекрасных фотографий, ни проектора, поэтому максимум что я смог сделать – посмотреть на просвет.
 
 Кое-что всё же удалось спасти, не идеально, но можно сказать какой-то шарм у фотографий есть:
 
-{% include image.html url="https://i.imgur.com/2PwnjF4.jpg" caption="Водопад Торк в Керри" %}
+{% include figure image_path="https://i.imgur.com/2PwnjF4.jpg" caption="Водопад Торк в Керри" %}
 
-{% include image.html url="https://i.imgur.com/zF22gir.jpg" caption="Утёсы Мохер" %}
+{% include figure image_path="https://i.imgur.com/zF22gir.jpg" caption="Утёсы Мохер" %}
 
-{% include image.html url="https://i.imgur.com/9NJeFcX.jpg" caption="Таня страдает от ветра" %}
+{% include figure image_path="https://i.imgur.com/9NJeFcX.jpg" caption="Таня страдает от ветра" %}
 
-{% include image.html url="https://i.imgur.com/28oRSUk.jpg" caption="Маяк в Дан Лири" %}
+{% include figure image_path="https://i.imgur.com/28oRSUk.jpg" caption="Маяк в Дан Лири" %}
 
-{% include image.html url="https://i.imgur.com/WeK7qja.jpg" caption="Набережная Дан Лири" %}
+{% include figure image_path="https://i.imgur.com/WeK7qja.jpg" caption="Набережная Дан Лири" %}
 
 Если есть желание посмотреть фотографии, не испорченные роком судьбы (есть вообще такая фраза?), то всегда можно почитать мои другие посты:

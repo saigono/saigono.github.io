@@ -10,20 +10,20 @@ header:
 
 По статистике, Ирландия довольно спокойная страна. Да и по личному опыту себя и знакомых, случаи каких-то преступлений крайне редки. Поэтому когда мне довелось увидеть происшествие на улице я был несколько удивлён. Естественно, не было никаких там погонь с перестрелками, просто пьяница дебоширил посредь бела дня. Набил морду охраннику бургеркинга, а когда его повязали, то кричал: «Помогите, люди добрые, без вины меня держат». И, что характерно, было много сердобольных людей пытающихся помочь.
 
-{% include image.html url="https://i.imgur.com/4bgo2Ie.jpg" caption="Под рукой был только пленочник" %}
+{% include figure image_path="https://i.imgur.com/4bgo2Ie.jpg" caption="Под рукой был только пленочник" %}
 
-{% include image.html url="https://i.imgur.com/WT7RvbR.jpg" caption="К тому же, я забыл убрать компенсацию экспозиции, она выкручена на сканере" %}
+{% include figure image_path="https://i.imgur.com/WT7RvbR.jpg" caption="К тому же, я забыл убрать компенсацию экспозиции, она выкручена на сканере" %}
 
-{% include image.html url="https://i.imgur.com/EWf9RP3.jpg" caption="Главный пострадавший" %}
+{% include figure image_path="https://i.imgur.com/EWf9RP3.jpg" caption="Главный пострадавший" %}
 
 Вскоре прибыл полицейский. Но без машины, на мотоцикле, поэтому всё, что он смог сделать, это начать обнимать дебошира самому и вызвать подмогу. 
 
-{% include image.html url="https://i.imgur.com/XIXCssA.jpg" caption="" %}
-{% include image.html url="https://i.imgur.com/E67fS6J.jpg" caption="" %}
+{% include figure image_path="https://i.imgur.com/XIXCssA.jpg" caption="" %}
+{% include figure image_path="https://i.imgur.com/E67fS6J.jpg" caption="" %}
 
 Закончилось всё прозаично: приехал бобик, и мужика запаковали. 
 
-{% include image.html url="https://i.imgur.com/cPtCmOZ.jpg" caption="Я не совсем деревня, смартфон-то есть" %}
+{% include figure image_path="https://i.imgur.com/cPtCmOZ.jpg" caption="Я не совсем деревня, смартфон-то есть" %}
 
 Вот такая в Дублине криминогенная обстановка. Но зато почувствовал себя репортером прошлого века: плёнка, куча испорченных кадров, месяц от происшествия до публикации. Лепота!
 

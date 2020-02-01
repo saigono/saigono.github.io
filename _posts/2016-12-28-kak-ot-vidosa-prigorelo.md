@@ -24,23 +24,23 @@ header:
 
 У КАРТЬЕ-БРЕССОНА НЕТ БОКЕ НА ФОТОГРАФИЯХ
 
-{% include image.html       
-           url="https://i.imgur.com/mUozVfJ.png"
+{% include figure       
+           image_path="https://i.imgur.com/mUozVfJ.png"
            title="Мальчик радуется огромному ГРИП на фото"
            caption="Мальчик радуется огромному ГРИП на фото" %}
 
-{% include image.html
-           url="https://i.imgur.com/xCUk7nW.png"
+{% include figure
+           image_path="https://i.imgur.com/xCUk7nW.png"
            title="Рабочий недоволен что его снимают на фикс"
            caption="Рабочий недоволен что его снимают на фикс" %}
 
-{% include image.html
-           url="https://i.imgur.com/KV1HiQA.png"
+{% include figure
+           image_path="https://i.imgur.com/KV1HiQA.png"
            title="Надпись на табличке: «Современные зумы догнали фиксы»"
            caption="Надпись на табличке: «Современные зумы догнали фиксы»" %}
 
-{% include image.html
-           url="https://i.imgur.com/aZYxOX6.png"
+{% include figure
+           image_path="https://i.imgur.com/aZYxOX6.png"
            title="Альбер Камю разочарован в фотографии середины XX века"
            caption="Альбер Камю разочарован в фотографии середины XX века" %}
 
