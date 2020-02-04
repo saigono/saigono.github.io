@@ -6,6 +6,7 @@ tags: [filmmaking, challenge, ireland]
 excerpt: Что будет, если незнакомые люди попробуют снять фильм за выходные?
 header:
   image: assets/images/forbidden-fruit.png
+  teaser: assets/thumbnails/forbidden-fruit.png
 ---
 
 Если однажды попробовал себя в кино – очень трудно остановиться. Но нельзя же просто взять, и снять какой-то фильм, правда? Оказывается, можно, стоит только захотеть.

@@ -6,6 +6,7 @@ tags: [exhibit, maynooth, ireland]
 excerpt: Промозглое утро может стать приятным
 header:
   image: assets/images/maynooth-mist-1.jpg
+  teaser: assets/thumbnails/maynooth-mist-1.jpg
 ---
 
 Любая происходящая движуха – всегда на пользу фотографу. 

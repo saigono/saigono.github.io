@@ -6,6 +6,7 @@ tags: [exhibit, maynooth, ireland, canon FD 50mm f1.8]
 excerpt: Много раз я видел заиндевевшую траву за окном, но ещё ни разу не удавалось побороть свою лень и сфотографировать её. До сегодняшнего утра.
 header:
   overlay_image: assets/images/emerald-and-silver.jpg
+  teaser: assets/thumbnails/emerald-and-silver.jpg
 ---
 
 Новый год 2020 я встретил в России. Как вы понимаете, это означает что снега я этой зимой практически не видел. Поэтому 

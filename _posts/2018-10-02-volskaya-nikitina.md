@@ -6,6 +6,7 @@ tags: [instagram-review]
 excerpt: Проба пера в критике инстаграм-аккаунта
 header:
   overlay_image: assets/images/volskaya-nikitina.jpg
+  teaser: assets/thumbnails/volskaya-nikitina.jpg
 instagram_author: volskaya_nikitina
 ---
 

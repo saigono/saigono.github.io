@@ -6,6 +6,7 @@ tags: [youtube,critique]
 excerpt: Впечатления от рассуждений на тему "Зум против фикса"
 header:
   overlay_image: assets/images/camus.png
+  teaser: assets/thumbnails/camus.png
 ---
 
 Посмотрел я тут один занимательный видос на Ютюбе, зовётся претенциозно «Зум против фикса. Видео урок по фотографии 49». Вот, собственно, и он: 

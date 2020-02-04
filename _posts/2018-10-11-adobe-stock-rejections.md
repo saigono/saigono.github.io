@@ -6,6 +6,7 @@ tags: [critique, adobe, microstock]
 excerpt: Отчёт о том, как Адоб не даёт мне заработать
 header:
   overlay_image: assets/images/microstock-1.jpg
+  teaser: assets/thumbnails/microstock-1.jpg
 ---
 
 Прежде чем начать, небольшое пояснения для тех, кто не в курсе. 

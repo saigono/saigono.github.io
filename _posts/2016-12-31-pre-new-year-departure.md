@@ -6,6 +6,7 @@ tags: [exhibit, dublin, ireland]
 excerpt: Первые кадры с новой Сигмы
 header:
   overlay_image: assets/images/pre-new-year.jpg
+  teaser: assets/thumbnails/pre-new-year.jpg
 ---
 
 Сделал себе подарок на Новый Год, купил новое стекло. Вот первые блины
