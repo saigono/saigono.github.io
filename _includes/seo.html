@@ -108,16 +108,6 @@
   <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}">
 {% endif %}
 
-{% if site.facebook %}
-  {% if site.facebook.publisher %}
-    <meta property="article:publisher" content="{{ site.facebook.publisher }}">
-  {% endif %}
-
-  {% if site.facebook.app_id %}
-    <meta property="fb:app_id" content="{{ site.facebook.app_id }}">
-  {% endif %}
-{% endif %}
-
 <link rel="canonical" href="{{ canonical_url }}">
 
 {% if paginator.previous_page %}
